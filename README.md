@@ -1,10 +1,10 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch time is an android application for android smart phone that allows users to easily convert amount of daily exercises to calories burned and/or other exercises. Use this converter to discover exercises that suit you best.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Jeff Lee ([jlee257@berkeley.edu](mailto:jlee257@berkeley.edu))
 
 ## Demo Video
 
@@ -13,6 +13,7 @@ See [your demo video title here] (https://link_to_your_video)
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
+
 
 ## Acknowledgments
 
