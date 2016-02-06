@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+
+    <string name="calorie_text">Calorie</string>
+    <string name="calorie_value_text">0 cal</string>
+
+    <string name="pushup_text">Pushup</string>
+    <string name="pushup_value_text">0 reps</string>
+
+    <string name="situp_text">Situp</string>
+    <string name="situp_value_text">0 reps</string>
+
+    <string name="squats_text">Squats</string>
+    <string name="squats_value_text">0 reps</string>
+
+    <string name="leglift_text">Leglift</string>
+    <string name="leglift_value_text">0 min</string>
+
+    <string name="plank_text">Plank</string>
+    <string name="plank_value_text">0 min</string>
+
+    <string name="jumpingjacks_text">Jumping Jacks</string>
+    <string name="jumpingjacks_value_text">0 min</string>
+
+    <string name="pullup_text">Pullup</string>
+    <string name="pullup_value_text">0 reps</string>
+
+    <string name="cycling_text">Cycling</string>
+    <string name="cycling_value_text">0 min</string>
+
+    <string name="walking_text">Walking</string>
+    <string name="walking_value_text">0 min</string>
+
+    <string name="jogging_text">Jogging</string>
+    <string name="jogging_value_text">0 min</string>
+
+    <string name="swimming_text">Swimming</string>
+    <string name="swimming_value_text">0 min</string>
+
+    <string name="stairclimbing_text">Stair Climbing</string>
+    <string name="stairclimbing_value_text">0 min</string>
+
+    <string name="calorie">cal</string>
+    <string name="rep_text">reps</string>
+    <string name="min_text">min</string>
+
+    <string name="alert_title_text">Title</string>
+    <string name="alert_unit_text">unit</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
