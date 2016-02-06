@@ -8,7 +8,7 @@ Jeff Lee ([jlee257@berkeley.edu](mailto:jlee257@berkeley.edu))
 
 ## Demo Video
 
-[Watch Youtube video here] (https://https://youtu.be/Bmrib4xTrVI)
+[Watch Youtube video here] (https://youtu.be/Bmrib4xTrVI)
 
 ## Screenshots
 
